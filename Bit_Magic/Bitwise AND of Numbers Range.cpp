@@ -1,8 +1,7 @@
-/*
-    MY YOUTUBE VIDEO ON THIS Qn : https://www.youtube.com/watch?v=3XYQLHSoew8
-    Company Tags                : will update soon
-    Leetcode Link               : https://leetcode.com/problems/bitwise-and-of-numbers-range/
-*/
+[YOUTUBE VIDEO]https://www.youtube.com/watch?v=3XYQLHSoew8
+[Leetcode Link](https://leetcode.com/problems/bitwise-and-of-numbers-range)
+// Company Tags                : will update soon
+
 
 /************************************************************ JAVA ************************************************************/
 //Approach-1 (Using shift)
